@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbbaba90-685b-407b-ae84-a2bb7819e3fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nQFYivhhvw0t2pdUAzl84LaT0R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webDesign" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WebStorm\Project\BeliAgroWebsite\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WebStorm\Project\BeliAgroWebsite\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbbaba90-685b-407b-ae84-a2bb7819e3fd" name="Default Changelist" comment="" />
+      <created>1611314457212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611314457212</updated>
+      <workItem from="1611314460700" duration="57000" />
+      <workItem from="1611314575802" duration="81000" />
+      <workItem from="1611314762752" duration="51000" />
+      <workItem from="1611314815397" duration="60000" />
+      <workItem from="1611317909691" duration="154000" />
+      <workItem from="1611376782044" duration="168000" />
+      <workItem from="1611377117397" duration="695000" />
+      <workItem from="1611380034615" duration="6267000" />
+      <workItem from="1611392471212" duration="2025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611382097943">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="413" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1366.738/1366.0.1366.738@0.30.1366.738" timestamp="1611382097943" />
+    <state x="462" y="140" key="FileChooserDialogImpl" timestamp="1611395375879">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="462" y="140" key="FileChooserDialogImpl/0.30.1366.738/1366.0.1366.738@0.30.1366.738" timestamp="1611395375879" />
+    <state x="462" y="140" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1611314872189" />
+  </component>
+</project>
